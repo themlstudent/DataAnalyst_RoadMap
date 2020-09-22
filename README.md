@@ -15,5 +15,5 @@ Learned about constructs, population vs sample, correlation vs causation, hypoth
 1. Practice identifying the terminologies related to research and experimentation methods.
 [Pratical Intro to Research Method ](https://classroom.udacity.com/courses/ud134-nd/lessons/4591758867/concepts/43991285560923)
 
-2. 
+2. Gain additional practice with identifying terminologies related to research and experimentation methods.
 [ Additional Practice (Optional)](https://classroom.udacity.com/courses/ud134-nd/lessons/4590838740/concepts/2514367180923)
