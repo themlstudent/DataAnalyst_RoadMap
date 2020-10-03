@@ -25,3 +25,7 @@
 
 2. Check what you've learned about visualizing data.
 [Visualizing Data(Practice)](https://classroom.udacity.com/courses/ud134-nd/lessons/4578005935/concepts/594537740923)
+
+3. Get additional practice with the concepts of visualizing data.
+[Additional Practice (Optional)](https://classroom.udacity.com/courses/ud134-nd/lessons/4623768897/concepts/2527424950923)
+
