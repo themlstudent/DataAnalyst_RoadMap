@@ -17,6 +17,7 @@
 2. Gain additional practice with identifying terminologies related to research and experimentation methods.
 [ Additional Practice (Optional)](https://classroom.udacity.com/courses/ud134-nd/lessons/4590838740/concepts/2514367180923)
 
+
 # Day 3 :
 
 1. Learn the basics of visualizing data by creating and interpreting histograms, bar charts and frequency plots.
