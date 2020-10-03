@@ -19,3 +19,5 @@
 
 # Day 3 :
 
+1. Learn the basics of visualizing data by creating and interpreting histograms, bar charts and frequency plots.
+[Visualizing Data](https://classroom.udacity.com/courses/ud134-nd/lessons/4574374276/concepts/596107560923)
