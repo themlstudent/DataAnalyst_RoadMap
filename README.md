@@ -2,14 +2,14 @@
 
 ![](/DA.png)
 
-# Day 1 :-
+# Day 1 :
 
 
 1. Learned about constructs, population vs sample, correlation vs causation, hypotheses, and experimentation.
 [Intro to Research Method ](https://classroom.udacity.com/courses/ud134-nd/lessons/4601188734/concepts/560159680923#)
 
 
-# Day 2 :
+# Day 2 :-
 
 1. Practice identifying the terminologies related to research and experimentation methods.
 [Pratical Intro to Research Method ](https://classroom.udacity.com/courses/ud134-nd/lessons/4591758867/concepts/43991285560923)
