@@ -22,3 +22,6 @@
 
 1. Learn the basics of visualizing data by creating and interpreting histograms, bar charts and frequency plots.
 [Visualizing Data](https://classroom.udacity.com/courses/ud134-nd/lessons/4574374276/concepts/596107560923)
+
+2. Check what you've learned about visualizing data.
+[Visualizing Data(Practice)](https://classroom.udacity.com/courses/ud134-nd/lessons/4578005935/concepts/594537740923)
